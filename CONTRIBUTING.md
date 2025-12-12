@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to this project! Your contributions are highly appreciated and help make this project better for everyone.
+Thank you for considering contributing to this project! Your contributions help make this project better for everyone.
 
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
